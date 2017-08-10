@@ -1,0 +1,26 @@
+{
+  "name": "gulp-tasklist",
+  "version": "0.0.1",
+  "description": "Get task list of gulp file in node.js.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Joouis/gulp-tasklist"
+  },
+  "keywords": [
+    "gulp",
+    "tasks"
+  ],
+  "author": "John Chou",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Joouis/gulp-tasklist/issues"
+  },
+  "homepage": "https://github.com/Joouis/gulp-tasklist#readme",
+  "dependencies": {
+    "esprima": "^4.0.0"
+  }
+}
